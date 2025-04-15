@@ -7,3 +7,4 @@ utils
 scipy
 statsmodels
 plotly
+pages
